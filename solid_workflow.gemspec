@@ -28,5 +28,5 @@ Gem::Specification.new do |spec|
   spec.add_development_dependency "rake", "~> 10.0"
   spec.add_development_dependency "rspec", "~> 3.0"
   spec.add_development_dependency "solid_use_case", "~> 2.2.0"
-  spec.add_development_dependency "classy_hash"
+  spec.add_development_dependency "classy_hash", "~> 0.2.1"
 end
